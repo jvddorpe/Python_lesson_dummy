@@ -1,6 +1,4 @@
-# Python lesson
-
-## Introduction
+# Library Carpentry @ ZB MED Cologne
 
 Author: Justine Vandendorpe
 
